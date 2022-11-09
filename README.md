@@ -1,5 +1,5 @@
 # 📓Booktionary
-<img src="https://user-images.githubusercontent.com/83414134/200843446-1b4335d6-29a5-4f66-b94f-421c413e2553.png" width="750">
+<img src="https://user-images.githubusercontent.com/83414134/200939042-724cf906-715b-46c0-8684-9d805178298a.png" width="750">
 
 > 📚**가치관이 맞는 인원과 함께 가꾸어 가는 개발 관련 도서 읽기 소모임입니다.**<br>
 > 💬알맞은 도서를 선정 후 책을 읽고, 해당 주제에 관해 각자의 견해를 이야기하며 상기시킵니다.
