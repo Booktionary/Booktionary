@@ -8,6 +8,7 @@
 
 ### List of books
 * [함께 자라기: 애자일로 가는 길](https://github.com/Booktionary/Booktionary/tree/main/01.%20함께%20자라기)
+* [객체지향의 사실과 오해](https://github.com/Booktionary/Booktionary/tree/main/02.%20객체지향의%20사실과%20오해)
 
 ### Contributors ✨
 |<img src="https://user-images.githubusercontent.com/83414134/200749946-60b29c4c-0a25-4b0f-9fa5-4dd1b359468a.jpeg" width="200" height="200">|<img src="https://user-images.githubusercontent.com/83414134/200756189-f14585e8-7286-4151-89ab-28c44090900a.jpeg" width="200" height="200">|
