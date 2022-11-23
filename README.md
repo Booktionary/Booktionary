@@ -15,3 +15,14 @@
 |:---:|:---:|
 |🐥 한빈| 🐳 이승철|
 |[dh3183](https://github.com/dh3183)|[Seung72](https://github.com/Seung72)
+
+### Our Convention
+#### Commit Convention
+> [Chapter.md]</br>
+> ➕[add]: 새로운 문서 파일 생성 시 사용됩니다.</br>
+> ♻️[update]: 기존 문서 내용 갱신 시 사용됩니다.</br>
+> 🗑️[del]: 기존 문서 삭제 시 사용됩니다.</br>
+> 🛠️[fix]: 기존 문서에 대한 내용을 수정 해야 할 시 사용됩니다. (오탈 등)
+>
+> [README.md]</br>
+> 📝[docs]: README.md에 대한 생성 및 수정 시 사용됩니다.
