@@ -11,7 +11,7 @@
 * [객체지향의 사실과 오해](https://github.com/Booktionary/Booktionary/tree/main/02.%20객체지향의%20사실과%20오해)
 
 ### Contributors ✨
-|<img src="https://user-images.githubusercontent.com/83414134/202398623-097c2614-76c5-40c6-bfe6-27e8b10fa1bb.png" width="200" height="200">|<img src="https://user-images.githubusercontent.com/83414134/202398444-a93994ce-6299-44a1-9c05-695abc618d1e.png" width="200" height="200">|
+|<img src="https://user-images.githubusercontent.com/83414134/205510165-190cc6f3-765f-4ef8-a21b-8d628c860c8e.png" width="200" height="200">|<img src="https://user-images.githubusercontent.com/83414134/202398444-a93994ce-6299-44a1-9c05-695abc618d1e.png" width="200" height="200">|
 |:---:|:---:|
 |🐥 한빈| 🐳 이승철|
 |[dh3183](https://github.com/dh3183)|[Seung72](https://github.com/Seung72)
