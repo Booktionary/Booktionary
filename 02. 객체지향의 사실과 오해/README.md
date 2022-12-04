@@ -6,8 +6,8 @@
 > [02. 이상한 나라의 객체](https://github.com/Booktionary/Booktionary/blob/main/02.%20객체지향의%20사실과%20오해/이상한%20나라의%20%20객체.md)<br>
 > [03. 타입과 추상화](https://github.com/Booktionary/Booktionary/blob/main/02.%20객체지향의%20사실과%20오해/타입과%20추상화.md)<br>
 > [04. 역할, 책임, 협력](https://github.com/Booktionary/Booktionary/blob/main/02.%20객체지향의%20사실과%20오해/역할%2C%20책임%2C%20협력.md)<br>
-> 05. 책임과 메시지<br>
-> 06. 객체 지도<br>
+> [05. 책임과 메시지](https://github.com/Booktionary/Booktionary/blob/elbin/02.%20객체지향의%20사실과%20오해/책임과%20메시지.md)<br>
+> [06. 객체 지도](https://github.com/Booktionary/Booktionary/blob/elbin/02.%20객체지향의%20사실과%20오해/객체%20지도.md)<br>
 > 07. 함께 모으기<br>
 >
 > 부록 A / 추상화 기법
