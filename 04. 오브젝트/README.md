@@ -4,8 +4,8 @@
 ### 목차
 > [01. 객체, 설계](https://github.com/Booktionary/Booktionary/blob/main/04.%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/01.%20%EA%B0%9D%EC%B2%B4%2C%20%EC%84%A4%EA%B3%84.md)<br>
 > [02. 객체지향 프로그래밍](https://github.com/Booktionary/Booktionary/blob/main/04.%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/02.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)<br>
-> 03. 역할, 책임, 협력<br>
-> 04. 설계 품질과 트레이드오프<br>
+> [03. 역할, 책임, 협력](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/03.%20역할%2C%20책임%2C%20협력.md)<br>
+> [04. 설계 품질과 트레이드오프](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/04.%20설계%20품질과%20트레이드오프.md)<br>
 > 05. 책임 할당하기<br>
 > 06. 메시지와 인터페이스<br>
 > 07. 객체 분해<br>
