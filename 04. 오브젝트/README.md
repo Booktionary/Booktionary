@@ -10,9 +10,9 @@
 > [06. 메시지와 인터페이스](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/06.%20메시지와%20인터페이스.md)<br>
 > [07. 객체 분해](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/07.%20객체%20분해.md)<br>
 > [08. 의존성 관리하기](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/08.%20의존성%20관리하기.md)<br>
-> 09. 유연한 설계<br>
-> 10. 상속과 코드 재사용<br>
-> 11. 합성과 유연한 설게<br>
+> [09. 유연한 설계](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/09.%20유연한%20설계.md)<br>
+> 10. [상속과 코드 재사용](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/10.%20상속과%20코드%20재사용.md)<br>
+> 11. 합성과 유연한 설계<br>
 > 12. 다형성<br>
 > 13. 서브클래싱과 서브 타이핑<br>
 > 14. 일관성 있는 협력<br>
