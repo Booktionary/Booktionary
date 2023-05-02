@@ -14,7 +14,7 @@
 > [10. 상속과 코드 재사용](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/10.%20상속과%20코드%20재사용.md)<br>
 > [11. 합성과 유연한 설계](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/11.%20합성과%20유연한%20설계.md)<br>
 > [12. 다형성](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/12.%20다형성.md)<br>
-> 13. 서브클래싱과 서브 타이핑<br>
+> [13. 서브클래싱과 서브 타이핑](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/13.%20서브클래싱과%20서브타이핑.md)<br>
 > 14. 일관성 있는 협력<br>
 > 15. 디자인 패턴과 프레임워크<br>
 >
