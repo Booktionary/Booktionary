@@ -15,8 +15,8 @@
 > [11. 합성과 유연한 설계](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/11.%20합성과%20유연한%20설계.md)<br>
 > [12. 다형성](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/12.%20다형성.md)<br>
 > [13. 서브클래싱과 서브 타이핑](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/13.%20서브클래싱과%20서브타이핑.md)<br>
-> 14. 일관성 있는 협력<br>
-> 15. 디자인 패턴과 프레임워크<br>
+> [14. 일관성 있는 협력](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/14.%20일관성%20있는%20협력.md)<br>
+> [15. 디자인 패턴과 프레임워크](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/15.%20디자인%20패턴과%20프레임워크.md)<br>
 >
 > 부록 A. 계약에 의한 설계</br>
 > 부록 B. 타입 계층의 구현</br>
