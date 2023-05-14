@@ -18,6 +18,6 @@
 > [14. 일관성 있는 협력](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/14.%20일관성%20있는%20협력.md)<br>
 > [15. 디자인 패턴과 프레임워크](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/15.%20디자인%20패턴과%20프레임워크.md)<br>
 >
-> [부록 A. 계약에 의한 설계](https://github.com/Booktionary/Booktionary/tree/main/04.%20오브젝트)</br>
+> [부록 A. 계약에 의한 설계](https://github.com/Booktionary/Booktionary/blob/main/04.%20오브젝트/부록%20A.%20계약에%20의한%20설계.md)</br>
 > 부록 B. 타입 계층의 구현</br>
 > 부록 C. 동적인 협력, 정적인 코드
